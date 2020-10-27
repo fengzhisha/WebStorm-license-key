@@ -2,6 +2,7 @@
 Instruction how use license key for WebStorm
 
 <h3>This method works for all JetBrains products</h3>
+<h4>Unfortunately, the method does not work correctly with the latest versions, the latest working version is 2020.1.1. I will try to fix this problem as soon as possible.</h4>
 
  <ol>
     <h3>Usage:</h3>
